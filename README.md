@@ -21,6 +21,6 @@ sudo git clone https://github.com/adobe-fonts/source-code-pro.git /usr/share/fon
 sudo fc-cache -f -v
 ```
 
-https://github.com/Haixing-Hu/nju-thesis
-https://github.com/adobe-fonts/source-han-serif
-https://github.com/adobe-fonts/source-code-pro/issues/17#issuecomment-8967116
+- https://github.com/Haixing-Hu/nju-thesis
+- https://github.com/adobe-fonts/source-han-serif
+- https://github.com/adobe-fonts/source-code-pro/issues/17#issuecomment-8967116
